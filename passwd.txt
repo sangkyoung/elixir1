@@ -1,0 +1,2 @@
+_installassistant:*:25:25:Install Assistant:/var/empty:/usr/bin/false
+_lp:*:26:26:Printing Service:/var/spool/cups:/usr/bin/false
